@@ -600,8 +600,8 @@ export default function App() {
             Neural <span className="text-neural-accent">Lens</span>
           </h1>
           <p className="text-neural-muted text-sm max-w-md">
-            Interactive visualization of the Large Language Model pipeline. 
-            Understand how text becomes intelligence.
+            By Tanay Anand
+            An interactive visualization of LLM Models
           </p>
         </div>
         
