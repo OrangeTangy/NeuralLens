@@ -739,16 +739,16 @@ export default function App() {
       <footer className="flex items-center justify-between border-t border-neural-border pt-4 px-2">
         <div className="flex items-center gap-6">
           <div className="flex items-center gap-2">
-            <span className="mono-label">Status:</span>
-            <span className="text-[10px] font-mono text-neural-success uppercase tracking-widest">System Ready</span>
+            <span className="mono-label"></span>
+            <span className="text-[10px] font-mono text-neural-success uppercase tracking-widest"></span>
           </div>
           <div className="flex items-center gap-2">
             <span className="mono-label">Engine:</span>
-            <span className="text-[10px] font-mono text-neural-muted uppercase tracking-widest">D3.js + Framer Motion</span>
+            <span className="text-[10px] font-mono text-neural-muted uppercase tracking-widest"></span>
           </div>
         </div>
         <div className="text-[10px] font-mono text-neural-muted/50 uppercase">
-          Neural Lens v1.0.0
+          Neural Lens v1.0.0 - Tanay Anand
         </div>
       </footer>
     </div>
