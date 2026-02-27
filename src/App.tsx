@@ -743,7 +743,7 @@ export default function App() {
             <span className="text-[10px] font-mono text-neural-success uppercase tracking-widest"></span>
           </div>
           <div className="flex items-center gap-2">
-            <span className="mono-label">Engine:</span>
+            <span className="mono-label"></span>
             <span className="text-[10px] font-mono text-neural-muted uppercase tracking-widest"></span>
           </div>
         </div>
